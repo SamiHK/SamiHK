@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 I am Sami Haroon ✨ **SDE II @ Afiniti** ✨ I engineer software products that can scale strategically and cost effectively.
 
 Here are a few things about me:
