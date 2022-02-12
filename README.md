@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sami Haroon, ✨ **SDE II @ Afiniti** ✨ I engineer software products that can scale strategically and cost effectively.
+I am Sami Haroon ✨ **SDE II @ Afiniti** ✨ I engineer software products that can scale strategically and cost effectively.
 
 Here are some ideas to get you started:
 
