@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Sami Haroon ✨ **SDE II @ Afiniti** ✨ I engineer software products that can scale strategically and cost effectively.
 
-Here are some ideas to get you started:
+Here are a few things about me:
 
 - 🔭 I’m currently working on ... Java Spring, C/C++, Dockers and Amazon Web Services.
 - 🌱 I’m currently learning ... System Design, Blitzscaling, Content Creation.
@@ -11,4 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://samiharoon.com/#contact.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I looked at my last year code and it looks garbage, java should collect and throw it.
+
+Find more about me here:
+[Personal Website](https://www.samiharoon.com)
+[LinkedIn Profile](https://www.linkedin.com/in/samihk)
 
