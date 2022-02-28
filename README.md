@@ -7,7 +7,7 @@ Here are a few things about me:
 - 🌱 I’m currently learning ... System Design, Blitzscaling, Content Creation.
 - 👯 I’m looking to collaborate on ... Product Hunt, Mock Interviews, Consultancy. 
 - 🤔 I’m looking for help with ... Becoming master at Competitive Programming.
-- 💬 Ask me about ... Java, Spring Boot, Angular, Typesctipt/JavaScript, C++, NodeJS, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
+- 💬 Ask me about ... Java, Spring Boot, Angular, Typescript/JavaScript, C++, NodeJS, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
 - 📫 How to reach me ... [Email me](https://samiharoon.com/#contact).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I looked at my last year code and it looks garbage, java should collect and throw it.
