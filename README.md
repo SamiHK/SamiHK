@@ -12,7 +12,7 @@ Here are a few things about me:
 - 💬 Ask me about ... Typescript/JavaScript, Java, Spring Boot, Angular, C++, NodeJS, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
 - 📫 How to reach me ... [Email me](https://samiharoon.com/#contact).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... I looked at my last year code and it looks garbage, java should collect and throw it.
+- ⚡ Fun fact: ... I still google it.
 
 Find more about me here:
 
