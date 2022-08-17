@@ -5,10 +5,10 @@ Currently Hiring Devs(NodeJS, React, React-native, Software Engineers) of All le
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on ... NodeJS, Javascript, Java Spring, C++, Dockers and Amazon Web Services.
-- 🌱 I’m currently learning ... System Design, Blitzscaling, Managing Distributed Teams.
+- 🔭 I’m currently working on ... NodeJS, Javascript, Java Spring, Serverless, System Design and Amazon Web Services.
+- 🌱 I’m currently learning ... , Blitzscaling, Managing Distributed Teams.
 - 👯 I’m looking to collaborate on ... Product Hunt, Mock Interviews, Consultancy. 
-- 🤔 I’m looking to collaborate on ... Competetive programming and Tech Interviews.
+- 🤔 I’m looking to collaborate on ... Tech talks and Tech Interviews.
 - 💬 Ask me about ... Typescript/JavaScript, Java, Spring Boot, Angular, C++, NodeJS, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
 - 📫 How to reach me ... [Email me](https://samiharoon.com/#contact).
 - ⚡ Fun fact: ... I still google things.
