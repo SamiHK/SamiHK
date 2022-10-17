@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am Sami Haroon ✨ **Senior Software Engineer @ remoteBase** ✨ I engineer software products that can scale strategically and cost effectively.
+I am Sami Haroon ✨ **Technical Lead / Manager @ remoteBase** ✨ I engineer software products that can scale strategically and cost effectively.
 
 Currently Hiring Devs(NodeJS, React, React-native, Software Engineers) of All levels apply => https://tinyurl.com/remotebase 
 
