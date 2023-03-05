@@ -1,21 +1,69 @@
-### Hey there 👋
-I am Sami Haroon ✨ **Technical Lead / Manager @ remoteBase** ✨ I engineer software products that can scale strategically and cost effectively.
+# Sami Haroon
+Technical Lead / Manager
 
-Currently Hiring Devs(NodeJS, React, React-native, Software Engineers) of All levels apply => https://tinyurl.com/remotebase 
+[Email](mailto:sami.haroon91@gmail.com) / [Website](https://www.samiharoon.com) / [LinkedIn](https://www.linkedin.com/in/samihk/)
 
-Here are a few things about me:
+---
 
-- 🔭 I’m currently working on ... NodeJS, Javascript, Java Spring, Serverless, System Design and Amazon Web Services.
-- 🌱 I’m currently learning ... Service Meshing, Blitzscaling, Managing Distributed Teams.
-- 👯 I’m looking to collaborate on ... Product Hunt, Mock Interviews, Consultancy. 
-- 🤔 I’m looking to collaborate on ... Tech talks and Tech Interviews.
-- 💬 Ask me about ... Typescript/JavaScript, Java, Spring Boot, Angular, C++, NodeJS, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Amazon Web Services, Cloud and Linux.
-- 📫 How to reach me ... [Email me](https://samiharoon.com/#contact).
-- ⚡ Fun fact: ... I still google things.
+## Summary
 
-Find more about me here:
+I am a technical leader with over 7 years of experience in software engineering. I am skilled in developing and shipping software products that can scale strategically and cost-effectively. My expertise includes NodeJS, JavaScript, Java Spring, serverless, system design, and Amazon Web Services.
 
-[Personal Website](https://www.samiharoon.com)
+## Professional Experience
 
-[LinkedIn Profile](https://www.linkedin.com/in/samihk)
+### Technical Lead / Manager at remoteBase
 
+#### Responsibilities
+
+- Design, develop, and ship large projects
+- Be the go-to person for all other engineers
+- Create influence in whichever team they're working out of
+- Participate effectively in cross-functional projects, like frontend, backend, system design, and DevOps
+- Participate in team-building activities, prioritize unattended work
+
+### Senior Software Engineer at Walnut
+
+#### Responsibilities
+
+- Develop and maintain a web application for personal finance management with features like expense tracking, automated bill payments, and more
+- Build a scalable microservice architecture using Node.js, Express.js, and MongoDB
+- Develop and maintain mobile applications for Android and iOS using React Native
+- Implement serverless architecture for AWS Lambda using Serverless Framework
+
+### Software Engineer at Oraan
+
+#### Responsibilities
+
+- Lead integration efforts for new and existing clients into Kepler’s Analytics dashboards and reporting engines
+- Develop a reporting tool to generate insights with up to 500+ metrics
+- Perform POS/ETL integration for 25+ global retail chains
+- Build a tool for event/data-driven analytics of stores' traffic using Java and PHP Cli, Symphony Framework, MySQL, and AWS Elastic Servers
+- Pipeline and release Oraan's products on GCP
+- Develop role-based data management portal using Angular PWA
+- Implement APIs for Oraan's microservices using Java Spring-boot, KeyCloak, and PostgreSQL
+
+### Software Engineer at Afiniti
+
+#### Responsibilities
+
+- Program core (C/C++) APIs for AI-based omnichannel platform to ensure high availability and scalability of network-critical applications, reducing queue times and improving response rates
+- Involved in architectural design, unit testing, profiling code, and improving benchmark results
+- Serve as team lead for an advanced API documentation service
+
+### Software Engineer at Techlogix
+
+#### Responsibilities
+
+- Develop hybrid mobile applications, web applications (SPA, SSR, PWAs), Node.js-based API services, and Java/Java Spring Boot-based microservices
+
+## Education
+
+- Bachelor of Science in Computer Science from NED University of Engineering and Technology
+
+## Skills
+
+- Node.js, JavaScript, Java Spring, React, React Native, Angular, PostgreSQL, MongoDB, AWS, Serverless, Microservices, System Design, C/C++, Python, PHP
+
+## Interests
+
+- Product Hunt, Mock Interviews, Consultancy, Tech talks, and Tech Interviews
