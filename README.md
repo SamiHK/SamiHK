@@ -1,4 +1,6 @@
 # 🚀 Sami Haroon
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;who+loves+AI;also+vision)](https://git.io/typing-svg)
 👨‍💻 Technical Lead / Manager
 
 📧 [Email](mailto:iam@samiharoon.com) / 🌐 [Website](https://www.samiharoon.com) / 💼 [LinkedIn](https://www.linkedin.com/in/samihk/)
