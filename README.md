@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Tech+Lead;Who+is+a+startup+builder;Loves+Healthtech+AI+Fintech.)](https://git.io/typing-svg)
 
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrew-sameh&theme=rose-pine" alt="GitHub Streak" /></a>
+</p>
+
 ## CTO/Director of Engieering
 
 📧 [Email](mailto:iam@samiharoon.com) / 🌐 [Website](https://www.samiharoon.com) / 💼 [LinkedIn](https://www.linkedin.com/in/samihk/)
