@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software;Manager+and+Leader.)](https://git.io/typing-svg)
 
 
-<p align="center">
+<p align="left">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
 </p>
 
