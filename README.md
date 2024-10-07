@@ -11,9 +11,9 @@
 
 📧 [Email Me](mailto:iam@samiharoon.com) 
 
-🌐 [Browse Me](https://www.samiharoon.com) 
+🌐 [Browse Me](https://samiharoon.com) 
 
-💼 [Connect with Me](https://www.linkedin.com/in/samihk/)
+💬 [Connect with Me](https://www.linkedin.com/in/samihk)
 
 
 ---
