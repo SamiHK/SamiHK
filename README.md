@@ -8,9 +8,13 @@
 </p>
 
 ## Director of Engineering
+
 📧 [Email Me](mailto:iam@samiharoon.com) 
+
 🌐 [Browse Me](https://www.samiharoon.com) 
+
 💼 [Connect with Me](https://www.linkedin.com/in/samihk/)
+
 
 ---
 
