@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrew-sameh&theme=rose-pine" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
 </p>
 
 ## CTO/Director of Engieering
