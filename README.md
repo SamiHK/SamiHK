@@ -1,4 +1,4 @@
-# Sami Haroon
+# Sami Haroon 👾
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software;Manager+and+Leader.)](https://git.io/typing-svg)
 
@@ -7,9 +7,8 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
 </p>
 
-## CTO/Director of Engieering
-
-📧 [Email](mailto:iam@samiharoon.com) / 🌐 [Website](https://www.samiharoon.com) / 💼 [LinkedIn](https://www.linkedin.com/in/samihk/)
+## Director of Engineering
+📧 [](mailto:iam@samiharoon.com) / 🌐 [](https://www.samiharoon.com) / 💼 [](https://www.linkedin.com/in/samihk/)
 
 ---
 
