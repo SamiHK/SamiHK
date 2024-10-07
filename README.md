@@ -15,14 +15,6 @@ I'm Sami Haroon, a passionate technologist with 9 years of experience building c
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
 </p>
 
-## Director of Engineering
-
-📧 [Email Me](mailto:iam@samiharoon.com) 
-
-🌐 [Browse Me](https://samiharoon.com) 
-
-💬 [Connect with Me](https://www.linkedin.com/in/samihk)
-
 
 ### 💡 My Key Expertise
 
@@ -125,15 +117,16 @@ I'm always excited to collaborate, share ideas, or discuss cutting-edge technolo
 
 ### 🌐 Get in Touch:
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sami-haroon)
-- **GitHub:** [Check out my repos](https://github.com/sami-haroon)
-- **Twitter:** [Follow me for tech insights](https://twitter.com/sami_haroon)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/samihk)
+- **GitHub:** [Check out my repos](https://github.com/samihk)
+- **Website:** [Follow me for tech insights](https://samiharoon.com)
+- **Email:** [Email me](mailto:iam@samiharoon.com)
 
 ---
 
 ### ⚙️ GitHub Stats
 
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami-haroon&show_icons=true&theme=radical)
+![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samihk&show_icons=true&theme=radical)
 
 ---
 
