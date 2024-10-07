@@ -11,11 +11,6 @@ I'm Sami Haroon, a passionate technologist with 9 years of experience building c
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software;Manager+and+Leader.)](https://git.io/typing-svg)
 
 
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
-</p>
-
-
 ### 💡 My Key Expertise
 
 #### 🛠️ Technical Skills
@@ -125,6 +120,10 @@ I'm always excited to collaborate, share ideas, or discuss cutting-edge technolo
 ---
 
 ### ⚙️ GitHub Stats
+
+<p align="left">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
+</p>
 
 ![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samihk&show_icons=true&theme=radical)
 
