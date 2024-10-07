@@ -1,6 +1,6 @@
 # Sami Haroon
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software+and+AI+solutions;Programmer+Technical+Leader+and+Manager.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software;Technical+Leader+and+Manager.)](https://git.io/typing-svg)
 
 
 <p align="center">
