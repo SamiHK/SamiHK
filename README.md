@@ -1,6 +1,6 @@
-# Sami Haroon Khan
+# Sami Haroon
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Tech+Lead;Who+is+a+startup+builder;Loves+Healthtech+AI+Fintech.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+scaleable+software+and+AI+solutions;Programmer+Technical+Leader+and+Manager.)](https://git.io/typing-svg)
 
 
 <p align="center">
