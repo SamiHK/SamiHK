@@ -28,14 +28,15 @@ I'm Sami Haroon, a passionate technologist with 9 years of experience building c
 
 #### 🛠️ Technical Skills
 - **Languages & Frameworks:** Typescript, Java, C++, Python, Next.js, Tailwind CSS
-- **Cloud Platforms:** AWS (deep expertise), Google Cloud, Redis Cloud
-- **Infrastructure as Code:** AWS CDK, Terraform, Jenkins, GitHub Actions
-- **Fullstack Development:** React, React Native, Angular, Node.js, Java Spring Boot, MongoDB, PostgreSQL
-- **DevOps & System Design:** System architecture, CI/CD, Microservices, Serverless frameworks
+- **Cloud Platforms:** AWS (deep expertise), Google Cloud, Redis Cloud, Vercel
+- **Infrastructure & Scalability Tools:** Kubernetes, Kafka, Docker, AWS CDK, Terraform, Jenkins, GitHub Actions
+- **Fullstack Development:** React/NextJS, NestJS, ElysiaJS, Java Spring Boot, MongoDB, PostgreSQL
+- **DevOps & System Design:** System architecture, CI/CD, Microservices, Serverless frameworks, Load Balancing, Auto Scaling
 
 #### 🎯 Leadership & Management Skills
 - **Team Leadership:** Lean Development, Agile, Compassion-driven mentoring
-- **Management Techniques:** Sprint planning, Team development, Driving engineering excellence through principles
+- **Management Techniques:** Sprint planning, Team development, Engineering excellence through scalable principles, Cross-functional collaboration
+
 
 ---
 
