@@ -119,15 +119,5 @@ I'm always excited to collaborate, share ideas, or discuss cutting-edge technolo
 
 ---
 
-### ⚙️ GitHub Stats
-
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samihk&theme=rose-pine" alt="GitHub Streak" /></a>
-</p>
-
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samihk&show_icons=true&theme=radical)
-
----
-
 Thanks for stopping by! 👋 I'm always keen to learn, collaborate, and build. Let's make an impact together! ✨
 
