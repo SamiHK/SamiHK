@@ -1,6 +1,6 @@
 # Hi there, I'm Sami Haroon 👋
 
-### 🚀 CTO | Software Engineer | AI & Computer Vision Enthusiast | Tech Leader
+### 🚀 CTO | Software Engineer | AI & Computer Vision Enthusiast
 
 ---
 
